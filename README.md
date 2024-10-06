@@ -16,8 +16,8 @@ PASSES=1 \
 CFG="cfg/base.yaml,cfg/template_breadcrumb.yaml,cfg/sn_a5x.breadcrumb.default.yaml" \
 NAME="sn_a5x.breadcrumb.default" \
 ./single.sh</code> 
-
-[Source](https://github.com/kudrykv/latex-yearly-planner/discussions/34#discussioncomment-3128344)
+ 
+   [Source](https://github.com/kudrykv/latex-yearly-planner/discussions/34#discussioncomment-3128344)
 
 4. Check the "out" directory for the 'pdf' planner. To move it to your device
 , follow the manufacturer's instructions on how to load a PDF on your device.
