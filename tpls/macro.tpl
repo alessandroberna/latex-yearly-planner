@@ -3,7 +3,7 @@
 \ExplSyntaxOff
 
 \newcommand{\myMinLineHeight}[1]{\parbox{0pt}{\vskip#1}}
-\newcommand{\myDummyQ}{\textcolor{white}{Q}}
+\newcommand{\myDummyQ}{\textcolor{black}{Q}}
 
 {{- $numbers := .Cfg.Layout.Numbers -}}
 \newcommand{\myNumArrayStretch}{ {{- $numbers.ArrayStretch -}} }
