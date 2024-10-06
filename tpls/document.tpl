@@ -24,6 +24,10 @@
 \usepackage{adjustbox}
 \usepackage{multido}
 
+\usepackage{xcolor}
+
+\pagecolor{black}
+
 \hypersetup{
     {{- if not .Cfg.Debug.ShowLinks}}hidelinks=true{{end -}}
 }
@@ -46,6 +50,7 @@
 \fboxsep0pt
 
 \begin{document}
+\color{white}
 
 {{template "macro.tpl" .}}
 

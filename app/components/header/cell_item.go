@@ -36,7 +36,7 @@ func (c CellItem) Display() string {
 	link := `\hyperlink{` + c.Ref + `}{` + c.Text + `}`
 
 	if c.selected {
-		return `\cellcolor{black}{\textcolor{white}{` + link + `}}`
+		return `\cellcolor{white}{\textcolor{black}{` + link + `}}`
 	}
 
 	return link
