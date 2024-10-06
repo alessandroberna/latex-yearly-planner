@@ -40,4 +40,4 @@ layout:
     tricolsep: 5pt
     monthlycellheight: 55pt
     notesindexcellheight: 1.45cm
-    quarterlyspring: \textcolor{white}{..}
+    quarterlyspring: \textcolor{black}{..}

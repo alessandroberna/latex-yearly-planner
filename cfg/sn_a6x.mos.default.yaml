@@ -33,4 +33,4 @@ layout:
     lineheightbutline: \dimexpr8mm-.4pt
     quarterlyspring: \myDummyQ
     monthlyspring: \vskip.5mm
-    dailyspring: \textcolor{white}{..}
+    dailyspring: \textcolor{black}{..}

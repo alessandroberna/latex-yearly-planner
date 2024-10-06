@@ -20,4 +20,4 @@ layout:
     headersidemonthswidth: 14.35cm
     quarterlyspring: \myDummyQ
     monthlyspring: \vskip.5mm
-    dailyspring: \textcolor{white}{..}
+    dailyspring: \textcolor{black}{..}

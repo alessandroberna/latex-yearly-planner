@@ -1,4 +1,4 @@
-\myUnderline{Schedule}\vskip-\myLenLineThicknessDefault
+\myUnderline{Schedule\textcolor{black}{g}}\vskip-\myLenLineThicknessDefault
 {{range $hour := .Day.Hours .Cfg.Layout.Numbers.DailyBottomHour .Cfg.Layout.Numbers.DailyTopHour -}}
 \myLineHeightButLine%
 {{if $.Cfg.AMPMTime -}}

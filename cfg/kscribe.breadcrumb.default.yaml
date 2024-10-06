@@ -14,7 +14,7 @@ layout:
     marginparsep: 3mm
 
   lengths:
-    quarterlyspring: \textcolor{white}{.}
+    quarterlyspring: \textcolor{black}{.}
 
   numbers:
     dailytodos: 6

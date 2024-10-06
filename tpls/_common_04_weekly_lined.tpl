@@ -36,5 +36,5 @@
 }%
 \hspace{\myLenTriColSep}%
 \parbox{\dimexpr2\myLenTriCol+\myLenTriColSep}{%
-  \myUnderline{Notes\textcolor{white}{g}}\Repeat{\myNumWeeklyLines}{\myLineGrayVskipTop}%
+  \myUnderline{Notes\textcolor{black}{g}}\Repeat{\myNumWeeklyLines}{\myLineGrayVskipTop}%
 }
